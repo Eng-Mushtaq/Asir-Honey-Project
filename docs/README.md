@@ -1,4 +1,4 @@
-# 🍯 Asir Honey Marketplace
+# 🍯 Asir Honey Project
 
 <div align="center">
   <h3>Connecting Asir Region Beekeepers with Consumers</h3>
@@ -12,7 +12,7 @@
 
 ## 📱 About The Project
 
-Asir Honey Marketplace is a comprehensive Flutter e-commerce application that connects local beekeepers in the Asir region directly with consumers. The app provides an intuitive platform for buying and selling authentic Asir honey, featuring bilingual support (English/Arabic) with full RTL layout.
+Asir Honey App is a  Flutter e-commerce application that connects local beekeepers in the Asir region directly with consumers. The app provides an intuitive platform for buying and selling authentic Asir honey, featuring bilingual support (English/Arabic) with full RTL layout.
 
 ### ✨ Key Features
 
@@ -48,13 +48,18 @@ flutter run
 
 ### Test Credentials
 
+**Admin Account**
+- Email: admin@gmail.com 
+- Password: Admin@123
+
+
 **Consumer Account**
-- Email: consumer@test.com
-- Password: Test@123
+- Email: customer@gmail.com
+- Password: Customer@123
 
 **Beekeeper Account**
-- Email: beekeeper@test.com
-- Password: Test@123
+- Email: beekeeper@gmail.com
+- Password:  Beekeeper@123
 
 ## 📚 Documentation
 
@@ -142,30 +147,7 @@ lib/
 - **Models**: 5
 - **Controllers**: 6
 - **Translations**: 100+ keys
-- **Lines of Code**: 5000+
 
-## 🎓 Academic Context
-
-**University**: Bisha University  
-**Department**: Computer Science  
-**Project Type**: Graduation Project  
-**Phase**: 1 (Frontend Complete)
-
-## 🔮 Roadmap
-
-### Phase 1 (Current) ✅
-- Frontend development
-- UI/UX implementation
-- Local storage
-- Dummy data
-
-### Phase 2 (Future)
-- Supabase backend integration
-- Real-time updates
-- Payment gateway
-- Push notifications
-- Image upload
-- Advanced features
 
 ## 📝 License
 
@@ -177,10 +159,6 @@ This project is created for academic purposes as part of a graduation project at
 - GetX package for state management
 - Google Fonts for typography
 - Asir region beekeepers for inspiration
-
-## 📞 Support
-
-For questions or issues, please refer to the documentation files or contact through the university.
 
 ---
 
