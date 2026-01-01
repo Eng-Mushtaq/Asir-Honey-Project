@@ -34,11 +34,7 @@ migration:
       create_revision: d7b523b356d15fb81e7d340bbe52b47f93937323
       base_revision: d7b523b356d15fb81e7d340bbe52b47f93937323
 
-  # User provided section
 
-  # List of Local paths (relative to this file) that should be
-  # ignored by the migrate tool.
-  #
   # Files that are not part of the templates will be ignored by default.
   unmanaged_files:
     - 'lib/main.dart'
